@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cat "./.embedded/${1%*.*}.html" | pbcopy

@@ -1,0 +1,8 @@
+posts/*
+!posts/test.md
+
+.embedded/*
+!/.embedded/posts/test.*
+
+.full/*
+!/.full/posts/test.html
