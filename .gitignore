@@ -1,8 +1,6 @@
 posts/*
-!posts/test.md
+!posts/test \post.md
 
 .embedded/*
-!/.embedded/posts/test.*
 
 .full/*
-!/.full/posts/test.html
